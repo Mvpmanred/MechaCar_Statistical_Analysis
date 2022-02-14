@@ -17,5 +17,8 @@
 ## T-Tests on Suspension Coils
 ![deliverable 3](https://user-images.githubusercontent.com/92561493/153808940-396305a1-28c6-4126-b7e1-ef35dc564d74.PNG)
 ![deliverable 31](https://user-images.githubusercontent.com/92561493/153808951-65061444-2de9-4558-93dd-6e756ad9d793.PNG)
+- From the picture above, we can see test result for Lot1. We assumed significance level of 0.05 and our p-value is 1. Therefore we failed ot reject the null hypothesis.
+- Test result for Lot2 is similar to Lot1. We assumed significance level of 0.05 and our p-value is 0.06072. Therefore we failed ot reject the null hypothesis.
+- For Lot3 test result we have p-value of 0.04168. We assumed significance level of 0.05 and our p-value is 0.04168. Therefore we reject the null hypothesis.
 
 
