@@ -24,4 +24,5 @@
 
 - For Lot3 test result we have p-value of 0.04168. We assumed significance level of 0.05, our smaple mean is 1496.14 and our p-value is 0.04168. Therefore we reject the null hypothesis.
 
-
+## Study Design: MechaCar vs Competition
+The two metrics I am going to test are cost and safety rating. We can use safety rating divided by cost to get the safety to cost ratio,then we can compare it to our competittors. The Null hypothesis will be the mean of safety to cost ratio of Mechacar car equals the mean of safety to cost ratio of all competitors car. The Alternative hypothesis will be the mean of safety to cost ratio of Mechacar car is greater than the mean of safety to cost ratio of all competitors car. And we are going to use one-sisded t-test. Because we only need to show our customers that Mechacar score is greater than all competitiors. To perform the hypothesis test, we need safety rating score data and cost data from Mechacar and all compeititors. Also we need to perform some analysis such as calculating the ratios for all types of cars from MechaCar and our competitiors.
