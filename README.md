@@ -7,7 +7,6 @@
 - Our R-squared value is 0.7149, which means that 71% of mpg prediction can be explained by our five variables. We can add more variables to test and to improve.
 
 ![deliverable 2](https://user-images.githubusercontent.com/92561493/153806794-1980574f-e459-4607-96a5-4c61136929f8.PNG)
-From the picture above, we can see the mean for all manufacturing lots is 1498.78, median is 1500 and SD is 7.892627. 
+From the picture above, we can see the mean for all manufacturing lots is 1498.78, median is 1500 and SD is 7.892627. However, when we break down into a deeper analysis:![deliverable 22]
 
-
-However, when we break down into a deeper analysis:![deliverable 22](https://user-images.githubusercontent.com/92561493/153807672-d621c3b6-46cc-42b4-91f1-e4c03ee5c355.PNG)
+(https://user-images.githubusercontent.com/92561493/153807672-d621c3b6-46cc-42b4-91f1-e4c03ee5c355.PNG)
